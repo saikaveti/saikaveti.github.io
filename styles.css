@@ -71,3 +71,18 @@ a:active{
 	vertical-align: middle;
   	display: table-cell;
 }
+
+#resume{
+	display: inline-block;
+	margin: auto;
+	width: 70px;
+	text-align: center;
+	font-family: "Garamond";
+	font-size: 1.2em;
+}
+
+#links{
+	width: 200px;
+	margin: auto;
+	padding-top: 20px
+}
